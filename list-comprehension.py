@@ -15,5 +15,5 @@ print(cubes)
 
 #This is five lines of code as opposed to two, which isn't favorable. Although 
 #they produce the same result, the first option is smaller and therefore more
-#efficient. The top is known as a list comprehension.
+#efficient. The top is known as a list comprehension
 

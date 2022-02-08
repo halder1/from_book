@@ -10,4 +10,4 @@ for magician in magicians:
 	#the beginning of the program. 
 
 	#This is the basic functioning of a for loop.
-print("Thank you everyone, that was a great magic show!  ")
+print("Thank you everyone, that was a great magic show! " )
